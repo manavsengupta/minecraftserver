@@ -16,5 +16,11 @@
     "name": "MSGxHOAXEN",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b6f68fb0-0f75-3fd2-8791-5b171817541f",
+    "name": "daisy",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
