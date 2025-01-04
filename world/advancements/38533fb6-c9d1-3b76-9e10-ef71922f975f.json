@@ -2607,5 +2607,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/overoverkill": {
+    "criteria": {
+      "overoverkill": "2025-01-04 21:24:43 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-04 21:19:13 +0530"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
