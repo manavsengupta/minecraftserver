@@ -483,7 +483,7 @@
       "minecraft:hoglin": "2024-10-23 21:46:58 +0530",
       "minecraft:shulker": "2024-12-29 00:35:09 +0530",
       "minecraft:piglin": "2024-10-21 15:53:13 +0530",
-      "minecraft:breeze": "2025-01-03 18:58:51 +0530",
+      "minecraft:guardian": "2025-01-04 15:43:48 +0530",
       "minecraft:vindicator": "2025-01-03 18:57:00 +0530",
       "minecraft:enderman": "2024-10-21 18:40:52 +0530",
       "minecraft:silverfish": "2024-12-29 02:11:18 +0530",
@@ -2385,12 +2385,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-01-03 18:56:21 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-03 18:57:03 +0530"
@@ -2400,24 +2394,6 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-01-03 18:57:03 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2025-01-03 19:35:26 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/bundle": {
-    "criteria": {
-      "has_string": "2025-01-03 19:53:42 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-01-03 19:54:38 +0530"
     },
     "done": true
   },
@@ -2547,15 +2523,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_planks": "2025-01-04 14:43:35 +0530"
+      "has_nether_star": "2025-01-04 11:56:19 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_trapdoor_from_honeycomb": {
+  "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
-      "has_oxidized_copper_trapdoor": "2025-01-04 14:45:29 +0530"
+      "has_logs": "2025-01-04 14:43:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
     },
     "done": true
   },
@@ -2571,21 +2553,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-01-04 14:43:29 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-01-04 14:43:35 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-04 11:56:19 +0530"
     },
     "done": true
   },
@@ -2616,6 +2586,24 @@
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-01-04 17:16:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-04 17:52:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 17:57:17 +0530"
     },
     "done": true
   },

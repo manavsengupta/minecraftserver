@@ -42,12 +42,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2025-01-03 17:53:10 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-01-03 17:53:10 +0530"
@@ -204,12 +198,6 @@
     "done": true
   },
   "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-01-03 19:06:04 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-01-03 19:06:04 +0530"
     },
@@ -665,12 +653,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-03 20:34:24 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-01-03 20:48:26 +0530"
@@ -1025,21 +1007,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-01-03 23:00:10 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
       "has_torchflower": "2025-01-03 23:00:10 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-03 23:00:11 +0530"
     },
     "done": true
   },
@@ -1181,12 +1151,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/blue_bundle": {
-    "criteria": {
-      "has_blue_dye": "2025-01-03 23:35:52 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-03 23:35:52 +0530"
@@ -1223,12 +1187,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/red_bundle": {
-    "criteria": {
-      "has_red_dye": "2025-01-03 23:35:58 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-01-03 23:35:58 +0530"
@@ -1238,12 +1196,6 @@
   "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-03 23:35:58 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/orange_bundle": {
-    "criteria": {
-      "has_orange_dye": "2025-01-03 23:36:02 +0530"
     },
     "done": true
   },
@@ -1277,12 +1229,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lime_bundle": {
-    "criteria": {
-      "has_lime_dye": "2025-01-03 23:36:04 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2025-01-03 23:36:04 +0530"
@@ -1298,12 +1244,6 @@
   "minecraft:recipes/building_blocks/dye_lime_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-03 23:36:04 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/magenta_bundle": {
-    "criteria": {
-      "has_magenta_dye": "2025-01-03 23:37:04 +0530"
     },
     "done": true
   },
@@ -1349,12 +1289,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/yellow_bundle": {
-    "criteria": {
-      "has_yellow_dye": "2025-01-03 23:37:08 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-03 23:37:08 +0530"
@@ -1362,12 +1296,6 @@
     "done": true
   },
   "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_green_dye": "2025-01-03 23:37:17 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/green_bundle": {
     "criteria": {
       "has_green_dye": "2025-01-03 23:37:17 +0530"
     },
@@ -1445,12 +1373,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/purple_bundle": {
-    "criteria": {
-      "has_purple_dye": "2025-01-03 23:41:00 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-01-03 23:41:00 +0530"
@@ -1460,12 +1382,6 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-03 23:41:00 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/white_bundle": {
-    "criteria": {
-      "has_white_dye": "2025-01-03 23:41:06 +0530"
     },
     "done": true
   },
@@ -1535,12 +1451,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/light_blue_bundle": {
-    "criteria": {
-      "has_light_blue_dye": "2025-01-03 23:44:54 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-01-03 23:56:08 +0530"
@@ -1595,15 +1505,153 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-04 14:44:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-04 14:45:28 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
     "criteria": {
-      "has_glowstone": "2025-01-04 14:44:43 +0530"
+      "has_torchflower": "2025-01-04 16:53:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-01-04 17:37:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-04 17:39:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-04 16:54:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-04 16:53:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-01-04 17:26:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2025-01-04 17:41:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-04 17:30:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_door": "2025-01-04 18:04:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-04 17:39:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-04 18:12:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-01-04 16:53:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 17:32:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-04 18:12:17 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-04 17:16:20 +0530"
     },
     "done": true
   },
