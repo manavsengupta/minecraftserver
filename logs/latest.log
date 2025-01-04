@@ -1,105 +1,360 @@
-[00:01:24] [Server thread/INFO]: [dipu: Set the time to 18000]
-[00:01:44] [Server thread/INFO]: [dipu: Set the time to 1000]
-[00:05:52] [Server thread/INFO]: [COMMANDO11: Killed 6 entities]
-[00:06:13] [Server thread/INFO]: [COMMANDO11: Killed 8 entities]
-[00:07:31] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to COMMANDO11]
-[00:08:09] [Server thread/INFO]: [dipu: Teleported COMMANDO11 to dipu]
-[00:08:27] [Server thread/INFO]: [dipu: Set the time to 18000]
-[00:10:20] [Server thread/INFO]: [dipu: Set the time to 1000]
-[00:10:32] [Server thread/INFO]: [dipu: Teleported dipu to 266.500000, 141.000000, -49.500000]
-[00:11:07] [Server thread/INFO]: dipu lost connection: Disconnected
-[00:11:07] [Server thread/INFO]: dipu left the game
-[00:15:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:15:37] [Server thread/INFO]:  help<--[HERE]
-[00:15:41] [Server thread/INFO]: /advancement (grant|revoke)
-[00:15:41] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
-[00:15:41] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
-[00:15:41] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
-[00:15:41] [Server thread/INFO]: /clear [<targets>]
-[00:15:41] [Server thread/INFO]: /clone (<begin>|from)
-[00:15:41] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
-[00:15:41] [Server thread/INFO]: /data (merge|get|remove|modify)
-[00:15:41] [Server thread/INFO]: /datapack (enable|disable|list)
-[00:15:41] [Server thread/INFO]: /debug (start|stop|function)
-[00:15:41] [Server thread/INFO]: /defaultgamemode <gamemode>
-[00:15:41] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
-[00:15:41] [Server thread/INFO]: /effect (clear|give)
-[00:15:41] [Server thread/INFO]: /me <action>
-[00:15:41] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
-[00:15:41] [Server thread/INFO]: /experience (add|set|query)
-[00:15:41] [Server thread/INFO]: /xp -> experience
-[00:15:41] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[00:15:41] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
-[00:15:41] [Server thread/INFO]: /forceload (add|remove|query)
-[00:15:41] [Server thread/INFO]: /function <name> [<arguments>|with]
-[00:15:41] [Server thread/INFO]: /gamemode <gamemode> [<target>]
-[00:15:41] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disablePlayerMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
-[00:15:41] [Server thread/INFO]: /give <targets> <item> [<count>]
-[00:15:41] [Server thread/INFO]: /help [<command>]
-[00:15:41] [Server thread/INFO]: /item (replace|modify)
-[00:15:41] [Server thread/INFO]: /kick <targets> [<reason>]
-[00:15:41] [Server thread/INFO]: /kill [<targets>]
-[00:15:41] [Server thread/INFO]: /list [uuids]
-[00:15:41] [Server thread/INFO]: /locate (structure|biome|poi)
-[00:15:41] [Server thread/INFO]: /loot (replace|insert|give|spawn)
-[00:15:41] [Server thread/INFO]: /msg <targets> <message>
-[00:15:41] [Server thread/INFO]: /tell -> msg
-[00:15:41] [Server thread/INFO]: /w -> msg
-[00:15:41] [Server thread/INFO]: /particle <name> [<pos>]
-[00:15:41] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
-[00:15:41] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[00:15:41] [Server thread/INFO]: /random (value|roll|reset)
-[00:15:41] [Server thread/INFO]: /reload
-[00:15:41] [Server thread/INFO]: /recipe (give|take)
-[00:15:41] [Server thread/INFO]: /return (<value>|fail|run)
-[00:15:41] [Server thread/INFO]: /ride <target> (mount|dismount)
-[00:15:41] [Server thread/INFO]: /rotate <target> (<rotation>|facing)
-[00:15:41] [Server thread/INFO]: /say <message>
-[00:15:41] [Server thread/INFO]: /schedule (function|clear)
-[00:15:41] [Server thread/INFO]: /scoreboard (objectives|players)
-[00:15:41] [Server thread/INFO]: /seed
-[00:15:41] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
-[00:15:41] [Server thread/INFO]: /spawnpoint [<targets>]
-[00:15:41] [Server thread/INFO]: /setworldspawn [<pos>]
-[00:15:41] [Server thread/INFO]: /spectate [<target>]
-[00:15:41] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[00:15:41] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[00:15:41] [Server thread/INFO]: /summon <entity> [<pos>]
-[00:15:41] [Server thread/INFO]: /tag <targets> (add|remove|list)
-[00:15:41] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
-[00:15:41] [Server thread/INFO]: /teammsg <message>
-[00:15:41] [Server thread/INFO]: /tm -> teammsg
-[00:15:41] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
-[00:15:41] [Server thread/INFO]: /tp -> teleport
-[00:15:41] [Server thread/INFO]: /tellraw <targets> <message>
-[00:15:41] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
-[00:15:41] [Server thread/INFO]: /time (set|add|query)
-[00:15:41] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[00:15:41] [Server thread/INFO]: /trigger <objective> [add|set]
-[00:15:41] [Server thread/INFO]: /weather (clear|rain|thunder)
-[00:15:41] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
-[00:15:41] [Server thread/INFO]: /jfr (start|stop)
-[00:15:41] [Server thread/INFO]: /ban-ip <target> [<reason>]
-[00:15:41] [Server thread/INFO]: /banlist [ips|players]
-[00:15:41] [Server thread/INFO]: /ban <targets> [<reason>]
-[00:15:41] [Server thread/INFO]: /deop <targets>
-[00:15:41] [Server thread/INFO]: /op <targets>
-[00:15:41] [Server thread/INFO]: /pardon <targets>
-[00:15:41] [Server thread/INFO]: /pardon-ip <target>
-[00:15:41] [Server thread/INFO]: /perf (start|stop)
-[00:15:41] [Server thread/INFO]: /save-all [flush]
-[00:15:41] [Server thread/INFO]: /save-off
-[00:15:41] [Server thread/INFO]: /save-on
-[00:15:41] [Server thread/INFO]: /setidletimeout <minutes>
-[00:15:41] [Server thread/INFO]: /stop
-[00:15:41] [Server thread/INFO]: /transfer <hostname> [<port>]
-[00:15:41] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
-[00:16:01] [Server thread/INFO]: Incorrect argument for command
-[00:16:01] [Server thread/INFO]: weather <--[HERE]
-[00:16:06] [Server thread/INFO]: Set the weather to rain & thunder
-[00:16:27] [Server thread/INFO]: Set the weather to clear
-[00:16:35] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
-[00:16:35] [Server thread/INFO]: COMMANDO11 left the game
-[00:21:18] [Server thread/INFO]: [MSGxHOAXEN: Set the time to 1000]
-[00:24:45] [Server thread/INFO]: daisy lost connection: Disconnected
-[00:24:45] [Server thread/INFO]: daisy left the game
+[11:45:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:46:00] [ServerMain/INFO]: Loaded 1370 recipes
+[11:46:00] [ServerMain/INFO]: Loaded 1481 advancements
+[11:46:00] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:46:00] [Server thread/INFO]: Loading properties
+[11:46:00] [Server thread/INFO]: Default game type: SURVIVAL
+[11:46:00] [Server thread/INFO]: Generating keypair
+[11:46:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:46:00] [Server thread/INFO]: Using default channel type
+[11:46:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:46:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:46:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:46:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:46:00] [Server thread/INFO]: Preparing level "world"
+[11:46:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:46:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:46:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:46:02] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:46:02] [Server thread/INFO]: Time elapsed: 1467 ms
+[11:46:02] [Server thread/INFO]: Done (1.757s)! For help, type "help"
+[11:46:22] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51022] logged in with entity id 77 at (-947.0584890994672, 201.87630981629354, 606.2174564964341)
+[11:46:22] [Server thread/INFO]: MSGxHOAXEN joined the game
+[11:48:46] [Server thread/INFO]: dipu[/127.105.13.186:51079] logged in with entity id 1426 at (176.8116440390406, 122.0, -69.78400403363925)
+[11:48:46] [Server thread/INFO]: dipu joined the game
+[11:48:54] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[11:48:58] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51097] logged in with entity id 3476 at (-1002.2407813913026, 202.54568801753223, 641.861698994013)
+[11:48:58] [Server thread/INFO]: COMMANDO11 joined the game
+[11:49:53] [Server thread/INFO]: MSGxHOAXEN lost connection: Timed out
+[11:49:53] [Server thread/INFO]: MSGxHOAXEN left the game
+[11:50:03] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51102] logged in with entity id 3781 at (-956.0749999880791, 209.2380711648002, 616.9788440273959)
+[11:50:03] [Server thread/INFO]: MSGxHOAXEN joined the game
+[11:51:01] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[11:51:27] [Server thread/WARN]: MSGxHOAXEN moved too quickly! -6.247952677359535,5.463454392811485,5.858286814188773
+[11:51:40] [Server thread/INFO]: [COMMANDO11: Killed Spider]
+[11:53:18] [Server thread/INFO]: [COMMANDO11: Teleported dipu to MSGxHOAXEN]
+[11:54:50] [Server thread/INFO]: [Not Secure] <dipu> \
+[11:54:56] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:01] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:02] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:03] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:04] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:04] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:05] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:05] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:05] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:06] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:55:07] [Server thread/INFO]: [dipu: Summoned new Warden]
+[11:56:21] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[11:56:28] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[11:59:40] [Server thread/INFO]: [dipu: Summoned new Ender Dragon]
+[12:00:39] [Server thread/INFO]: [Not Secure] <dipu> 80 35 3
+[12:00:53] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[12:01:07] [Server thread/INFO]: [dipu: Successfully filled 514 block(s)]
+[12:01:34] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[12:01:34] [Server thread/INFO]: COMMANDO11 left the game
+[12:01:38] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51171] logged in with entity id 10148 at (-1013.8832411283753, 208.75307050237257, 635.3530304561415)
+[12:01:38] [Server thread/INFO]: COMMANDO11 joined the game
+[12:02:20] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:21] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:21] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:22] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:22] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:23] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:23] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:23] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:24] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:24] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:25] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:25] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:25] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:26] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:51] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:52] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:52] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:53] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:53] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:54] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:54] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:54] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:55] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:55] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:56] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:56] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:56] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:57] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:57] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:58] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:02:58] [Server thread/INFO]: [dipu: Summoned new Warden]
+[12:03:08] [Server thread/INFO]: [dipu: Gave 1 [Warden Spawn Egg] to dipu]
+[12:03:12] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[12:03:12] [Server thread/INFO]: COMMANDO11 left the game
+[12:03:15] [Server thread/INFO]: [dipu: Gave 1 [Warden Spawn Egg] to dipu]
+[12:03:16] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51179] logged in with entity id 11026 at (-1010.8540954928557, 212.11736541992957, 631.7690357460788)
+[12:03:16] [Server thread/INFO]: COMMANDO11 joined the game
+[12:04:15] [Server thread/INFO]: [dipu: Teleported COMMANDO11 to dipu]
+[12:04:36] [Server thread/INFO]: [COMMANDO11: Teleported COMMANDO11 to MSGxHOAXEN]
+[12:04:57] [Server thread/INFO]: [COMMANDO11: Teleported MSGxHOAXEN to dipu]
+[12:05:04] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to COMMANDO11]
+[12:06:36] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[12:06:36] [Server thread/INFO]: COMMANDO11 left the game
+[12:06:40] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51193] logged in with entity id 12874 at (-1012.2573947986099, 211.64746105543324, 619.8488099447487)
+[12:06:40] [Server thread/INFO]: COMMANDO11 joined the game
+[12:07:01] [Server thread/INFO]: [dipu: Summoned new Villager]
+[12:07:14] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[12:07:17] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:07:19] [Server thread/INFO]: Villager coj['Villager'/13014, l='ServerLevel[world]', x=93.47, y=58.00, z=24.70] died, message: 'Villager was slain by Warden'
+[12:07:51] [Server thread/INFO]: [dipu: Teleported MSGxHOAXEN to dipu]
+[12:07:54] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:07:56] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:08:09] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to COMMANDO11]
+[12:08:22] [Server thread/INFO]: [dipu: Teleported COMMANDO11 to dipu]
+[12:08:41] [Server thread/INFO]: [COMMANDO11: Killed 140 entities]
+[12:08:59] [Server thread/INFO]: [COMMANDO11: Killed 3 entities]
+[12:09:12] [Server thread/INFO]: [dipu: Teleported dipu to COMMANDO11]
+[12:09:13] [Server thread/INFO]: [COMMANDO11: Killed 2 entities]
+[12:09:15] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[12:09:42] [Server thread/INFO]: [dipu: Teleported COMMANDO11 to dipu]
+[12:10:02] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[12:10:06] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:10:19] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[12:10:23] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:10:48] [Server thread/INFO]: [COMMANDO11: Teleported COMMANDO11 to MSGxHOAXEN]
+[12:10:55] [Server thread/INFO]: [MSGxHOAXEN: Set the time to 1000]
+[12:10:55] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[12:11:58] [Server thread/INFO]: [dipu: Teleported COMMANDO11 to dipu]
+[12:12:35] [Server thread/WARN]: COMMANDO11 moved too quickly! 3.3413706781905432,-0.6840000271797066,-9.91198986903806
+[12:12:35] [Server thread/INFO]: [dipu: Teleported dipu to COMMANDO11]
+[12:12:39] [Server thread/WARN]: COMMANDO11 moved too quickly! 6.221966570882046,-2.446947937232977,-8.616931208288662
+[12:12:39] [Server thread/WARN]: dipu moved too quickly! 1.252003265448451,0.0,-10.21683152875395
+[12:12:48] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[12:12:57] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[12:13:05] [Server thread/INFO]: [COMMANDO11: Teleported COMMANDO11 to MSGxHOAXEN]
+[12:14:15] [Server thread/INFO]: [dipu: Teleported dipu to COMMANDO11]
+[12:15:19] [Server thread/INFO]: [dipu: Teleported dipu to 266.500000, 141.000000, -49.500000]
+[12:15:22] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[12:15:22] [Server thread/INFO]: COMMANDO11 left the game
+[12:15:23] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:15:26] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51232] logged in with entity id 21569 at (-1013.7299905179594, 220.66436488263594, 618.1343889072087)
+[12:15:26] [Server thread/INFO]: COMMANDO11 joined the game
+[12:16:25] [Server thread/INFO]: [dipu: Gave 1 [Flint and Steel] to dipu]
+[12:17:09] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:17:12] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:17:31] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:17:44] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:18:17] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:18:50] [Server thread/INFO]: [dipu: Teleported dipu to 266.500000, -141.000000, -49.500000]
+[12:18:51] [Server thread/INFO]: dipu fell out of the world
+[12:19:14] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:19:54] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:20:37] [Server thread/INFO]: [dipu: Set the time to 18000]
+[12:20:41] [Server thread/INFO]: [dipu: Set the time to 1000]
+[12:20:47] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:20:54] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:20:57] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:21:10] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:21:26] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:21:26] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:22:13] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[12:25:51] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:52] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:52] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:52] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:53] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:53] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:54] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:54] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:54] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:55] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:55] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:55] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:56] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:25:56] [Server thread/INFO]: [dipu: Summoned new Shulker]
+[12:26:02] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:26:13] [Server thread/INFO]: [dipu: Gave 100 [Golden Apple] to dipu]
+[12:26:17] [Server thread/INFO]: [dipu: Gave 100 [Totem of Undying] to dipu]
+[12:26:37] [Server thread/INFO]: daisy[/127.5.154.221:51284] logged in with entity id 30994 at (-980.472426903519, 204.99313700595022, 675.1860692668046)
+[12:26:37] [Server thread/INFO]: daisy joined the game
+[12:26:51] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:27:00] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:27:33] [Server thread/INFO]: [dipu: Gave 100 [Spectral Arrow] to dipu]
+[12:27:36] [Server thread/INFO]: [dipu: Gave 100 [Spectral Arrow] to dipu]
+[12:27:59] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:28:19] [Server thread/INFO]: [dipu: Gave 1 [Uncraftable Tipped Arrow] to dipu]
+[12:28:40] [Server thread/INFO]: [dipu: Gave 100 [Arrow] to dipu]
+[12:28:44] [Server thread/INFO]: [dipu: Gave 100 [Arrow] to dipu]
+[12:28:50] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:28:54] [Server thread/INFO]: [MSGxHOAXEN: Set the time to 1000]
+[12:28:59] [Server thread/INFO]: [MSGxHOAXEN: Set the weather to clear]
+[12:30:33] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:30:41] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:31:39] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:31:42] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[12:32:52] [Server thread/INFO]: [dipu: Gave 100 [Enchanted Golden Apple] to dipu]
+[12:33:24] [Server thread/INFO]: [dipu: Gave 1 [Fishing Rod] to dipu]
+[12:33:35] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[12:34:27] [Server thread/WARN]: MSGxHOAXEN moved too quickly! -3.55201111147926,5.431827069667406,-7.68863274573971
+[12:34:53] [Server thread/INFO]: MSGxHOAXEN lost connection: Timed out
+[12:34:53] [Server thread/INFO]: MSGxHOAXEN left the game
+[12:35:01] [Server thread/INFO]: [dipu: Applied effect Levitation to 10 targets]
+[12:35:11] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51325] logged in with entity id 34371 at (-962.1430115486163, 212.8651962716989, 607.4139185363227)
+[12:35:11] [Server thread/INFO]: MSGxHOAXEN joined the game
+[12:35:36] [Server thread/INFO]: [dipu: Applied effect Levitation to 2 targets]
+[12:40:27] [Server thread/INFO]: [MSGxHOAXEN: Set the time to 1000]
+[12:40:38] [Server thread/INFO]: [dipu: Removed effect Levitation from 2 targets]
+[12:44:23] [Server thread/INFO]: [Not Secure] <dipu> aschi ektu pore
+[12:44:29] [Server thread/INFO]: [Not Secure] <dipu> tora khek
+[12:44:34] [Server thread/INFO]: [Not Secure] <dipu> server on ache
+[12:52:03] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[12:52:28] [Server thread/INFO]: [COMMANDO11: Killed 12 entities]
+[12:52:44] [Server thread/INFO]: [COMMANDO11: Killed 14 entities]
+[12:52:55] [Server thread/INFO]: [COMMANDO11: Killed 5 entities]
+[12:53:24] [Server thread/INFO]: [COMMANDO11: Killed 2 entities]
+[12:55:58] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[12:55:58] [Server thread/INFO]: COMMANDO11 left the game
+[12:56:05] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51446] logged in with entity id 36812 at (-985.554623099474, 198.0, 603.5593309394305)
+[12:56:05] [Server thread/INFO]: COMMANDO11 joined the game
+[12:56:18] [Server thread/INFO]: daisy lost connection: Disconnected
+[12:56:18] [Server thread/INFO]: daisy left the game
+[12:56:52] [Server thread/INFO]: daisy[/127.230.49.161:51457] logged in with entity id 36839 at (-1013.5562744945471, 211.30729525797744, 667.3672263666124)
+[12:56:52] [Server thread/INFO]: daisy joined the game
+[12:57:28] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 6.56415573739821,0.0,8.261110840552874
+[13:00:46] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[13:00:46] [Server thread/INFO]: COMMANDO11 left the game
+[13:00:49] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51479] logged in with entity id 37185 at (-994.6597108611554, 200.90779718977032, 617.2004243103895)
+[13:00:49] [Server thread/INFO]: COMMANDO11 joined the game
+[13:01:41] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[13:12:56] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[13:13:07] [Server thread/INFO]: [COMMANDO11: Killed 17 entities]
+[13:13:25] [Server thread/INFO]: [COMMANDO11: Killed 3 entities]
+[13:14:26] [Server thread/INFO]: MSGxHOAXEN has made the advancement [Bring Home the Beacon]
+[13:15:58] [Server thread/INFO]: MSGxHOAXEN lost connection: Disconnected
+[13:15:58] [Server thread/INFO]: MSGxHOAXEN left the game
+[13:17:42] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51544] logged in with entity id 38643 at (-935.65374956337, 205.41564586078746, 604.3945561347319)
+[13:17:42] [Server thread/INFO]: MSGxHOAXEN joined the game
+[13:17:45] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[13:17:45] [Server thread/INFO]: COMMANDO11 left the game
+[13:17:49] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51548] logged in with entity id 38664 at (-997.9298493525212, 205.07029726531687, 607.7284353417515)
+[13:17:49] [Server thread/INFO]: COMMANDO11 joined the game
+[13:22:08] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[13:28:02] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[13:28:02] [Server thread/INFO]: COMMANDO11 left the game
+[13:28:07] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51575] logged in with entity id 39316 at (-995.4842790949402, 210.24151694479085, 605.3874205687853)
+[13:28:07] [Server thread/INFO]: COMMANDO11 joined the game
+[13:32:00] [Server thread/INFO]: [MSGxHOAXEN: Set the time to 1000]
+[13:35:14] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[13:41:13] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[13:41:19] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[13:41:19] [Server thread/INFO]: COMMANDO11 left the game
+[13:41:23] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51600] logged in with entity id 40165 at (-1009.9382709522497, 198.0, 610.3619638758272)
+[13:41:23] [Server thread/INFO]: COMMANDO11 joined the game
+[13:44:38] [Server thread/INFO]: [dipu: Teleported COMMANDO11 to dipu]
+[13:44:54] [Server thread/INFO]: [dipu: Gave 1 [Obsidian] to dipu]
+[13:58:29] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[13:59:44] [Server thread/INFO]: MSGxHOAXEN lost connection: You logged in from another location
+[13:59:44] [Server thread/INFO]: MSGxHOAXEN left the game
+[13:59:45] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51809] logged in with entity id 40840 at (-1005.1440836666359, 213.0, 673.0973683114942)
+[13:59:45] [Server thread/INFO]: MSGxHOAXEN joined the game
+[14:13:41] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[14:14:40] [Server thread/INFO]: [dipu: Summoned new Villager]
+[14:14:47] [Server thread/INFO]: Villager coj['Villager'/41392, l='ServerLevel[world]', x=-944.72, y=197.00, z=645.75] died, message: 'Villager was shot by dipu'
+[14:14:52] [Server thread/INFO]: [dipu: Summoned new Iron Golem]
+[14:15:36] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[14:15:44] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:21:56] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[14:21:56] [Server thread/INFO]: COMMANDO11 left the game
+[14:22:25] [Server thread/INFO]: COMMANDO11[/127.235.186.174:52056] logged in with entity id 41987 at (-997.4973044214084, 322.1581467612366, 610.8691900244715)
+[14:22:25] [Server thread/INFO]: COMMANDO11 joined the game
+[14:24:01] [Server thread/INFO]: [dipu: Teleported dipu to daisy]
+[14:24:06] [Server thread/INFO]: [dipu: Set the time to 1000]
+[14:24:42] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[14:25:52] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to COMMANDO11]
+[14:25:58] [Server thread/INFO]: [dipu: Teleported daisy to dipu]
+[14:26:18] [Server thread/INFO]: [dipu: Teleported dipu to COMMANDO11]
+[14:26:21] [Server thread/INFO]: [COMMANDO11: Killed 4 entities]
+[14:26:35] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[14:26:39] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:26:42] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:26:45] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[14:26:49] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:26:54] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[14:26:57] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:27:01] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[14:27:18] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Creative Mode]
+[14:27:23] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:27:37] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[14:27:46] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:27:50] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:27:53] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 9.641139472849773,2.782862291901864,-3.8169490403270174
+[14:28:01] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:28:05] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[14:28:05] [Server thread/INFO]: dipu fell from a high place
+[14:28:06] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 9.951259007313297,2.8181688159839666,-0.3359412376843238
+[14:28:10] [Server thread/INFO]: [dipu: Teleported dipu to COMMANDO11]
+[14:28:12] [Server thread/INFO]: [Not Secure] <COMMANDO11> lmao
+[14:28:13] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:28:34] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
+[14:28:43] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:28:46] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 1.8784432553170518,4.173449289663921,9.194929724485064
+[14:28:47] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:29:10] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 0.0,10.12500039391469,0.0
+[14:29:16] [Server thread/WARN]: MSGxHOAXEN moved too quickly! -2.7102863863835864,9.37500037252903,2.7288465349604394
+[14:30:07] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 1.1540757297293567,-10.125000402331352,1.4226787807646133
+[14:32:06] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:32:17] [Server thread/INFO]: [dipu: Applied effect Instant Health to dipu]
+[14:32:52] [Server thread/INFO]: [COMMANDO11: Removed every effect from dipu]
+[14:32:59] [Server thread/INFO]: [COMMANDO11: Set dipu's game mode to Survival Mode]
+[14:33:02] [Server thread/INFO]: [dipu: Applied effect Instant Health to dipu]
+[14:33:11] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:33:16] [Server thread/INFO]: dipu fell from a high place
+[14:33:35] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[14:33:39] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:33:42] [Server thread/INFO]: [dipu: Applied effect Instant Health to dipu]
+[14:33:43] [Server thread/INFO]: dipu fell from a high place
+[14:33:47] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[14:33:57] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[14:34:19] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:34:19] [Server thread/INFO]: [MSGxHOAXEN: Removed 22 item(s) from player MSGxHOAXEN]
+[14:35:36] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:35:37] [Server thread/INFO]: [MSGxHOAXEN: Removed 194 item(s) from player dipu]
+[14:35:40] [Server thread/INFO]: [dipu: Gave 1 [Totem of Undying] to dipu]
+[14:35:40] [Server thread/INFO]: dipu fell from a high place
+[14:35:51] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
+[14:37:29] [Server thread/INFO]: [COMMANDO11: Teleported dipu to COMMANDO11]
+[14:37:45] [Server thread/INFO]: [dipu: Gave 1 [Totem of Undying] to dipu]
+[14:40:01] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[14:40:01] [Server thread/INFO]: COMMANDO11 left the game
+[14:42:58] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
+[14:43:08] [Server thread/INFO]: COMMANDO11[/127.235.186.174:52468] logged in with entity id 50996 at (-997.5252963621978, 323.49682204346163, 610.4651948913661)
+[14:43:08] [Server thread/INFO]: COMMANDO11 joined the game
+[14:43:35] [Server thread/INFO]: MSGxHOAXEN lost connection: Timed out
+[14:43:35] [Server thread/INFO]: MSGxHOAXEN left the game
+[14:44:02] [Server thread/INFO]: [COMMANDO11: Set the time to 6000]
+[14:44:07] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[14:44:08] [Server thread/INFO]: [dipu: Set the weather to clear]
+[14:45:07] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:52482] logged in with entity id 51492 at (-1012.7641642997656, 198.0, 649.7611017950792)
+[14:45:07] [Server thread/INFO]: MSGxHOAXEN joined the game
+[14:47:17] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 0.19074298558973624,0.15000000596046448,10.368105990467711
+[14:47:22] [Server thread/INFO]: MSGxHOAXEN lost connection: Timed out
+[14:47:22] [Server thread/INFO]: MSGxHOAXEN left the game
+[14:47:33] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:52496] logged in with entity id 52120 at (-934.4410271226353, 202.5586609484069, 630.6867559931862)
+[14:47:33] [Server thread/INFO]: MSGxHOAXEN joined the game
+[14:48:08] [Server thread/INFO]: [MSGxHOAXEN: Teleported daisy to MSGxHOAXEN]
+[14:48:14] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[14:48:14] [Server thread/INFO]: COMMANDO11 left the game
+[14:48:21] [Server thread/INFO]: COMMANDO11[/127.235.186.174:52541] logged in with entity id 52244 at (-996.7630896514099, 320.8232692332361, 610.5347389228696)
+[14:48:21] [Server thread/INFO]: COMMANDO11 joined the game
+[14:48:31] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[14:48:31] [Server thread/INFO]: COMMANDO11 left the game
+[14:48:59] [Server thread/WARN]: MSGxHOAXEN moved too quickly! 9.027696118356175,0.0,-5.529243659732742
+[14:49:53] [Server thread/WARN]: MSGxHOAXEN moved too quickly! -9.375627483507401,-1.5951183056113223,3.739358709556882
+[14:50:22] [Server thread/INFO]: COMMANDO11[/127.235.186.174:52825] logged in with entity id 52435 at (-997.1560811111269, 322.8677957893576, 610.5342644508372)
+[14:50:22] [Server thread/INFO]: COMMANDO11 joined the game
+[14:50:49] [Server thread/INFO]: MSGxHOAXEN lost connection: Timed out
+[14:50:49] [Server thread/INFO]: MSGxHOAXEN left the game
+[14:53:49] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[14:56:13] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:52885] logged in with entity id 52540 at (-968.100249391593, 198.0, 636.2774887843918)
+[14:56:13] [Server thread/INFO]: MSGxHOAXEN joined the game
+[14:56:35] [Server thread/INFO]: dipu lost connection: Disconnected
+[14:56:35] [Server thread/INFO]: dipu left the game
+[14:56:50] [Server thread/INFO]: Stopping server

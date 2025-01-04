@@ -234,15 +234,16 @@
     "criteria": {
       "cooked_porkchop": "2024-12-29 01:45:53 +0530",
       "pufferfish": "2024-10-18 23:14:42 +0530",
-      "spider_eye": "2024-10-22 17:58:00 +0530",
+      "golden_apple": "2025-01-04 12:27:04 +0530",
       "suspicious_stew": "2024-10-18 23:14:11 +0530",
       "rotten_flesh": "2024-10-22 17:58:12 +0530",
-      "enchanted_golden_apple": "2024-10-21 15:38:06 +0530",
-      "rabbit": "2024-10-18 23:46:02 +0530",
       "cooked_beef": "2024-10-20 00:22:04 +0530",
       "beef": "2024-10-19 23:47:13 +0530",
       "porkchop": "2025-01-03 18:40:38 +0530",
       "golden_carrot": "2024-10-18 21:54:29 +0530",
+      "spider_eye": "2024-10-22 17:58:00 +0530",
+      "enchanted_golden_apple": "2024-10-21 15:38:06 +0530",
+      "rabbit": "2024-10-18 23:46:02 +0530",
       "carrot": "2024-10-18 21:54:20 +0530"
     },
     "done": false
@@ -2543,6 +2544,78 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-01-03 22:52:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_trapdoor": "2025-01-04 14:45:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 14:43:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-04 11:56:19 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 14:43:35 +0530"
     },
     "done": true
   },
