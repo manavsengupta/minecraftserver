@@ -480,6 +480,7 @@
       "minecraft:witch": "2024-10-21 19:41:57 +0530",
       "minecraft:wither_skeleton": "2024-10-21 19:41:57 +0530",
       "minecraft:ravager": "2024-10-21 18:50:37 +0530",
+      "minecraft:ender_dragon": "2025-01-05 16:30:14 +0530",
       "minecraft:hoglin": "2024-10-23 21:46:58 +0530",
       "minecraft:shulker": "2024-12-29 00:35:09 +0530",
       "minecraft:piglin": "2024-10-21 15:53:13 +0530",
@@ -2607,15 +2608,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-04 21:19:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/overoverkill": {
     "criteria": {
       "overoverkill": "2025-01-04 21:24:43 +0530"
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "has_poppy": "2025-01-04 21:19:13 +0530"
+      "killed_dragon": "2025-01-05 16:30:14 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-05 16:35:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-05 16:35:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-05 16:35:12 +0530"
     },
     "done": true
   },
