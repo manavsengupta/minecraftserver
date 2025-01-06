@@ -475,27 +475,28 @@
       "minecraft:pillager": "2024-10-21 19:42:43 +0530",
       "minecraft:skeleton": "2024-10-19 20:26:42 +0530",
       "minecraft:zoglin": "2024-10-21 19:43:58 +0530",
+      "minecraft:ravager": "2024-10-21 18:50:37 +0530",
+      "minecraft:hoglin": "2024-10-23 21:46:58 +0530",
+      "minecraft:guardian": "2025-01-04 15:43:48 +0530",
+      "minecraft:vindicator": "2025-01-03 18:57:00 +0530",
+      "minecraft:breeze": "2025-01-05 23:09:27 +0530",
+      "minecraft:spider": "2024-10-21 18:44:50 +0530",
+      "minecraft:piglin_brute": "2025-01-03 18:55:19 +0530",
+      "minecraft:creeper": "2024-10-21 19:59:34 +0530",
+      "minecraft:evoker": "2024-10-21 20:02:28 +0530",
       "minecraft:phantom": "2024-10-21 19:01:40 +0530",
       "minecraft:zombified_piglin": "2024-10-19 22:39:09 +0530",
       "minecraft:witch": "2024-10-21 19:41:57 +0530",
       "minecraft:wither_skeleton": "2024-10-21 19:41:57 +0530",
-      "minecraft:ravager": "2024-10-21 18:50:37 +0530",
       "minecraft:ender_dragon": "2025-01-05 16:30:14 +0530",
-      "minecraft:hoglin": "2024-10-23 21:46:58 +0530",
       "minecraft:shulker": "2024-12-29 00:35:09 +0530",
       "minecraft:piglin": "2024-10-21 15:53:13 +0530",
-      "minecraft:guardian": "2025-01-04 15:43:48 +0530",
-      "minecraft:vindicator": "2025-01-03 18:57:00 +0530",
       "minecraft:enderman": "2024-10-21 18:40:52 +0530",
       "minecraft:silverfish": "2024-12-29 02:11:18 +0530",
       "minecraft:endermite": "2024-12-29 02:16:12 +0530",
-      "minecraft:spider": "2024-10-21 18:44:50 +0530",
-      "minecraft:piglin_brute": "2025-01-03 18:55:19 +0530",
       "minecraft:vex": "2024-10-21 20:01:37 +0530",
       "minecraft:zombie": "2024-10-21 18:47:59 +0530",
-      "minecraft:creeper": "2024-10-21 19:59:34 +0530",
-      "minecraft:zombie_villager": "2025-01-03 18:44:16 +0530",
-      "minecraft:evoker": "2024-10-21 20:02:28 +0530"
+      "minecraft:zombie_villager": "2025-01-03 18:44:16 +0530"
     },
     "done": false
   },
@@ -2641,6 +2642,120 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-05 16:35:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-01-05 17:28:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-01-05 17:28:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-01-05 17:28:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-01-05 17:28:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-01-05 17:28:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-01-05 17:28:55 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-05 18:01:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:08:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:08:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-05 19:08:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-05 22:11:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-01-05 23:09:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 22:53:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 22:53:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 22:53:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-01-05 23:09:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 22:53:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 22:53:22 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-05 22:53:22 +0530"
     },
     "done": true
   },
