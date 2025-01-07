@@ -1,454 +1,449 @@
-[14:02:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:02:25] [ServerMain/INFO]: Loaded 1370 recipes
-[14:02:25] [ServerMain/INFO]: Loaded 1481 advancements
-[14:02:25] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:02:25] [Server thread/INFO]: Loading properties
-[14:02:25] [Server thread/INFO]: Default game type: SURVIVAL
-[14:02:25] [Server thread/INFO]: Generating keypair
-[14:02:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:02:25] [Server thread/INFO]: Using default channel type
-[14:02:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:02:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:02:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:02:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:02:25] [Server thread/INFO]: Preparing level "world"
-[14:02:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:02:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:02:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:02:26] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:02:26] [Server thread/INFO]: Time elapsed: 1248 ms
-[14:02:26] [Server thread/INFO]: Done (1.501s)! For help, type "help"
-[14:02:34] [Server thread/INFO]: dipu[/127.105.13.186:53544] logged in with entity id 78 at (140.5, 143.0, 20.5)
-[14:02:34] [Server thread/INFO]: dipu joined the game
-[14:02:47] [Server thread/INFO]: [dipu: Teleported dipu to -969.500000, 196.000000, 690.500000]
-[14:02:49] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[14:02:51] [Server thread/INFO]: [dipu: Teleported dipu to -969.500000, 196.000000, 690.500000]
-[14:03:01] [Server thread/INFO]: [dipu: Gave 1 [Block of Iron] to dipu]
-[14:03:13] [Server thread/INFO]: [dipu: Gave 1 [Pale Oak Planks] to dipu]
-[14:04:19] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:25] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:31] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:32] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:32] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:32] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:33] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:43] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:04:56] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:05:03] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:05:09] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:11:54] [Server thread/INFO]: [dipu: Gave 1 [Command Block] to dipu]
-[14:12:47] [Server thread/INFO]: [dipu: Gamerule doFireTick is now set to: false]
-[14:12:55] [Server thread/INFO]: [dipu: Gave 1 [Flint and Steel] to dipu]
-[14:13:51] [Server thread/INFO]: [dipu: Set the time to 1000]
-[14:19:09] [Server thread/INFO]: [Not Secure] <dipu> -965 200 684
-[14:23:01] [Server thread/INFO]: [dipu: Set the time to 1000]
-[14:23:39] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:53714] logged in with entity id 22993 at (-993.1735081743275, 208.62679538902802, 655.1272469250414)
-[14:23:39] [Server thread/INFO]: MSGxHOAXEN joined the game
-[14:25:47] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
-[14:28:18] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
-[14:31:06] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:32:22] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:32:46] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:33:08] [Server thread/INFO]: [dipu: Teleported MSGxHOAXEN to dipu]
-[14:34:15] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:34:34] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:34:38] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:35:42] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
-[14:36:31] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[14:36:50] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
-[14:38:23] [Server thread/INFO]: [dipu: Set the weather to rain & thunder]
-[14:38:28] [Server thread/INFO]: [dipu: Set the weather to rain & thunder]
-[14:38:34] [Server thread/INFO]: [dipu: Set the weather to rain & thunder]
-[14:38:38] [Server thread/INFO]: [dipu: Set the weather to rain & thunder]
-[14:38:48] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:39:04] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:40:04] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:41:33] [Server thread/INFO]: [MSGxHOAXEN: Set the weather to rain & thunder]
-[14:41:49] [Server thread/INFO]: [dipu: Summoned new Skeleton]
-[14:41:54] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
-[14:42:01] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[14:42:07] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:08] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:09] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:10] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:10] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:11] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:12] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:12] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:13] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:14] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:14] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:15] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:16] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:17] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:17] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:18] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:19] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:19] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:20] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:21] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:21] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:22] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:23] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:24] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:24] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:25] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:26] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:26] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:27] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:27] [Server thread/INFO]: [MSGxHOAXEN: Set the time to 13000]
-[14:42:28] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:28] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:29] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:30] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:31] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:31] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:32] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:33] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:33] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:34] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:35] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:35] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:36] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:37] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:38] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:38] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:39] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:40] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:40] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:41] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:42] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:42] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:43] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:44] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:45] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:45] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:46] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:47] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:47] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:48] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:49] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:49] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:50] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:51] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:52] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:52] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:53] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:54] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:54] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:55] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:56] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:56] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:57] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:58] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:59] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:42:59] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:00] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:00] [Server thread/INFO]: [dipu: Summoned new Creeper]
-[14:43:01] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:01] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:02] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:03] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:03] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:04] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:05] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:06] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:06] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:07] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:08] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:08] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:09] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:10] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:10] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:11] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:12] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:13] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:13] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:14] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:15] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:15] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:16] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:17] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:17] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:18] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:19] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:20] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:20] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:21] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:22] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:22] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:23] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:24] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:24] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:25] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:26] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:27] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:27] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:28] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:29] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:29] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:30] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:31] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:31] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:32] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:33] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:34] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:34] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:35] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:36] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:36] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:37] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:38] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:38] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:39] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:40] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:41] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:41] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:42] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:43] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:43] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:44] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:45] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:45] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:46] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:47] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:48] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:48] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:49] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:50] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:50] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:51] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:52] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:52] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:53] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:54] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:55] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:55] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:56] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:57] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:57] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:58] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:59] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:43:59] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:00] [Server thread/INFO]: [dipu: Summoned new Warden]
-[14:44:00] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:01] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:02] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:02] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:03] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:04] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:04] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:05] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:06] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:06] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:07] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:08] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:09] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:09] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:10] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:11] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:11] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:12] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:13] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:13] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:14] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:15] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:16] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:16] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:17] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:18] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:18] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:19] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:20] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:20] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:21] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:22] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:23] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:23] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:24] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:25] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:25] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:26] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:27] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:27] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:28] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:29] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:30] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:30] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:31] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:32] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:32] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:33] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:34] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:34] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:35] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:36] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:37] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:37] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:38] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:39] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:39] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:40] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:41] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:41] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:42] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:43] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:44] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:44] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:45] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:46] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:46] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:47] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:48] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:48] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:49] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:50] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:51] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:51] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:52] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:53] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:53] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:54] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:55] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:55] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:56] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:56] [Server thread/INFO]: [dipu: Summoned new Ravager]
-[14:44:57] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:58] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:58] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:44:59] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:00] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:00] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:01] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:02] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:02] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:03] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:04] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:05] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:05] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:06] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:07] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:07] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:08] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:09] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:09] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:10] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:11] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:12] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:12] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:13] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:14] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:14] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:15] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:16] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:16] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:17] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:18] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:19] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:19] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:20] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:21] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:21] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:22] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:23] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:23] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:24] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:25] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:26] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:26] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:27] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:28] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:28] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:29] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:30] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:30] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:31] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:32] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:33] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:33] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:34] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:35] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:45:35] [Server thread/ERROR]: POI data mismatch: never registered at ji{x=-966, y=200, z=690}
-[14:47:22] [Server thread/INFO]: [dipu: Summoned new Skeleton]
-[14:47:26] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
-[14:47:28] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[14:48:07] [Server thread/INFO]: [dipu: Summoned new Skeleton]
-[14:48:09] [Server thread/INFO]: [dipu: Set own game mode to Adventure Mode]
-[14:48:14] [Server thread/INFO]: dipu was shot by Skeleton
-[14:48:23] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[14:53:38] [Server thread/INFO]: [MSGxHOAXEN: Set the time to 13000]
-[14:54:47] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:55:39] [Server thread/INFO]: [dipu: Set the time to 18000]
-[14:56:28] [Server thread/INFO]: [dipu: Teleported dipu to MSGxHOAXEN]
-[14:56:29] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu]
-[14:56:37] [Server thread/INFO]: [dipu: Set own game mode to Spectator Mode]
-[14:56:45] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[14:56:47] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu]
-[14:59:10] [Server thread/INFO]: MSGxHOAXEN lost connection: Disconnected
-[14:59:10] [Server thread/INFO]: MSGxHOAXEN left the game
-[15:00:56] [Server thread/INFO]: [Not Secure] <dipu> -931 197 691
-[15:02:48] [Server thread/INFO]: [dipu: Teleported Ashwathhama to dipu]
-[15:03:11] [Server thread/INFO]: [dipu: Teleported Ashwathhama to dipu]
-[15:03:51] [Server thread/INFO]: [dipu: Teleported Ashwathhama to dipu]
-[15:04:52] [Server thread/INFO]: [dipu: Teleported Ashwathhama to dipu]
-[15:06:12] [Server thread/INFO]: [dipu: Teleported Ashwathhama to dipu]
-[15:07:13] [Server thread/INFO]: [dipu: Set own game mode to Spectator Mode]
-[15:07:14] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[15:07:15] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
-[15:07:44] [Server thread/INFO]: [dipu: Summoned new Horse]
-[15:08:12] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[15:09:02] [Server thread/INFO]: [dipu: Teleported Ashwathhama to dipu]
-[15:09:03] [Server thread/INFO]: [dipu: Teleported Ashwathhama to dipu]
-[15:10:12] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:10:56] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
-[15:10:57] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[15:11:28] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:38] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:49] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:49] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:50] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:50] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:50] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:51] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:51] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:11:51] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:12:36] [Server thread/INFO]: [dipu: Set own game mode to Survival Mode]
-[15:12:47] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:12:47] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:12:47] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:12:48] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:12:48] [Server thread/INFO]: [dipu: Summoned new Giant]
-[15:13:06] [Server thread/INFO]: [dipu: Set own game mode to Creative Mode]
-[15:13:44] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:54059] logged in with entity id 56558 at (-944.9590832742587, 214.6718666261984, 650.0128098451737)
-[15:13:44] [Server thread/INFO]: MSGxHOAXEN joined the game
-[15:13:55] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu]
-[15:17:50] [Server thread/INFO]: dipu lost connection: Disconnected
-[15:17:50] [Server thread/INFO]: dipu left the game
-[15:18:42] [Server thread/INFO]: dipu2004[/127.105.13.186:54137] logged in with entity id 57333 at (153.5, 141.0, 31.5)
-[15:18:42] [Server thread/INFO]: dipu2004 joined the game
-[15:18:59] [Server thread/INFO]: Made dipu2004 a server operator
-[15:19:04] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to MSGxHOAXEN]
-[15:19:08] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
-[15:22:07] [Server thread/INFO]: [dipu2004: Gave 1 [Command Block] to dipu2004]
-[15:22:25] [Server thread/INFO]: [dipu2004: Gave 1 [Lever] to dipu2004]
-[15:27:28] [Server thread/INFO]: [dipu2004: Gave 1 [Bow] to dipu2004]
-[15:27:42] [Server thread/INFO]: [dipu2004: Summoned new Warden]
-[15:27:44] [Server thread/INFO]: dipu2004 has made the advancement [Take Aim]
-[15:27:50] [Server thread/INFO]: [dipu2004: Summoned new Warden]
-[15:27:56] [Server thread/INFO]: [dipu2004: Summoned new Warden]
-[15:29:49] [Server thread/INFO]: [dipu2004: Summoned new Warden]
-[15:31:17] [Server thread/INFO]: [dipu2004: Summoned new Giant]
-[15:31:35] [Server thread/INFO]: [dipu2004: Summoned new Giant]
-[15:31:45] [Server thread/INFO]: [dipu2004: Summoned new Giant]
-[15:32:10] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
-[15:32:55] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
-[15:32:57] [Server thread/INFO]: [dipu2004: Summoned new Giant]
-[15:32:58] [Server thread/INFO]: [dipu2004: Summoned new Giant]
-[15:32:59] [Server thread/INFO]: [dipu2004: Summoned new Giant]
-[15:33:00] [Server thread/INFO]: [dipu2004: Summoned new Giant]
-[15:33:33] [Server thread/INFO]: MSGxHOAXEN lost connection: Disconnected
-[15:33:33] [Server thread/INFO]: MSGxHOAXEN left the game
-[15:36:35] [Server thread/INFO]: [dipu2004: Teleported Ashwathhama to dipu2004]
-[15:36:43] [Server thread/INFO]: [dipu2004: Teleported Ashwathhama to dipu2004]
-[15:37:08] [Server thread/INFO]: dipu2004 lost connection: Disconnected
-[15:37:08] [Server thread/INFO]: dipu2004 left the game
+[20:05:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:05:02] [ServerMain/INFO]: Loaded 1370 recipes
+[20:05:02] [ServerMain/INFO]: Loaded 1481 advancements
+[20:05:03] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:05:03] [Server thread/INFO]: Loading properties
+[20:05:03] [Server thread/INFO]: Default game type: SURVIVAL
+[20:05:03] [Server thread/INFO]: Generating keypair
+[20:05:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:05:03] [Server thread/INFO]: Using default channel type
+[20:05:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:05:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:05:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:05:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:05:03] [Server thread/INFO]: Preparing level "world"
+[20:05:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:05:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:05:04] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:05:04] [Server thread/INFO]: Time elapsed: 938 ms
+[20:05:04] [Server thread/INFO]: Done (1.239s)! For help, type "help"
+[20:05:55] [Server thread/INFO]: abhi123[/127.29.219.251:50149] logged in with entity id 80 at (-81.59014021046394, 68.0, -44.07279961494857)
+[20:05:55] [Server thread/INFO]: abhi123 joined the game
+[20:07:16] [Server thread/INFO]: [abhi123: Set own game mode to Creative Mode]
+[20:07:19] [Server thread/INFO]: abhi123 was killed
+[20:07:19] [Server thread/INFO]: [abhi123: Killed abhi123]
+[20:08:31] [Server thread/INFO]: dipu2004[/127.0.0.1:62514] logged in with entity id 6731 at (-999.4729941787427, 219.743670937193, 684.5160044820412)
+[20:08:31] [Server thread/INFO]: dipu2004 joined the game
+[20:08:39] [Server thread/INFO]: [dipu2004: Teleported abhi123 to dipu2004]
+[20:08:58] [Server thread/INFO]: [Not Secure] <dipu2004> new skin
+[20:09:18] [Server thread/INFO]: [Not Secure] <abhi123> ok
+[20:09:59] [Server thread/INFO]: [dipu2004: Set the time to 18000]
+[20:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3448ms or 68 ticks behind
+[20:11:27] [Server thread/INFO]: [Not Secure] <dipu2004> khake ata hu
+[20:11:40] [Server thread/INFO]: [Not Secure] <abhi123> ok
+[20:21:37] [Server thread/INFO]: [dipu2004: Set the time to 1000]
+[20:22:09] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[20:22:43] [Server thread/INFO]: [Not Secure] <abhi123> abhi mai phadai kar raha hu mai 20 minutes ke badh auonga
+[20:23:09] [Server thread/INFO]: [Not Secure] <dipu2004> ok
+[20:24:11] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[20:26:04] [Server thread/INFO]: [dipu2004: Gave 1 [Flint and Steel] to dipu2004]
+[20:27:56] [Server thread/INFO]: dipu2004 has made the advancement [Monster Hunter]
+[20:28:00] [Server thread/INFO]: dipu2004 has made the advancement [We Need to Go Deeper]
+[20:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[20:33:21] [Server thread/INFO]: [dipu2004: Summoned new Giant]
+[20:33:37] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to 266.500000, 141.000000, -49.500000]
+[20:33:52] [Server thread/INFO]: dipu2004 has made the advancement [Ice Bucket Challenge]
+[20:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[20:34:24] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to 266.500000, 141.000000, -49.500000]
+[20:35:41] [Server thread/INFO]: [dipu2004: Summoned new Creeper]
+[20:44:13] [Server thread/INFO]: [dipu2004: Summoned new Giant]
+[20:44:26] [Server thread/INFO]: [dipu2004: Summoned new Giant]
+[20:53:20] [Server thread/INFO]: abhi123 lost connection: Disconnected
+[20:53:20] [Server thread/INFO]: abhi123 left the game
+[20:53:24] [Server thread/INFO]: dipu2004 lost connection: Disconnected
+[20:53:24] [Server thread/INFO]: dipu2004 left the game
+[20:54:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:56:50] [Server thread/INFO]: dipu2004[/127.0.0.1:51004] logged in with entity id 20862 at (-967.7543147837208, 197.0, 686.3871783416546)
+[20:56:50] [Server thread/INFO]: dipu2004 joined the game
+[21:00:53] [Server thread/INFO]: [dipu2004: Gave 1 [Rose Bush] to dipu2004]
+[21:00:57] [Server thread/INFO]: [dipu2004: Gave 1 [Rose Bush] to dipu2004]
+[21:00:59] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:01:04] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:01:37] [Server thread/INFO]: dipu2004 lost connection: Disconnected
+[21:01:37] [Server thread/INFO]: dipu2004 left the game
+[21:02:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:06:00] [Server thread/INFO]: dipu2004[/127.0.0.1:51194] logged in with entity id 22223 at (-990.7379663196118, 204.60979515875408, 652.5220380442235)
+[21:06:00] [Server thread/INFO]: dipu2004 joined the game
+[21:07:31] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51224] logged in with entity id 23671 at (-957.3095643020155, 197.0, 685.3430000482107)
+[21:07:31] [Server thread/INFO]: MSGxHOAXEN joined the game
+[21:07:45] [Server thread/INFO]: abhifluffy[/127.29.219.251:51229] logged in with entity id 23703 at (142.5, 141.0, 17.5)
+[21:07:45] [Server thread/INFO]: abhifluffy joined the game
+[21:07:54] [Server thread/INFO]: Made abhifluffy a server operator
+[21:08:00] [Server thread/INFO]: [MSGxHOAXEN: Teleported abhifluffy to MSGxHOAXEN]
+[21:08:01] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:09:21] [Server thread/INFO]: [dipu2004: Set MSGxHOAXEN's game mode to Survival Mode]
+[21:09:32] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:10:27] [Server thread/INFO]: [dipu2004: Set MSGxHOAXEN's game mode to Survival Mode]
+[21:10:29] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:10:42] [Server thread/INFO]: MSGxHOAXEN lost connection: Disconnected
+[21:10:42] [Server thread/INFO]: MSGxHOAXEN left the game
+[21:11:11] [Server thread/INFO]: [dipu2004: Teleported Ashwathhama to abhifluffy]
+[21:12:08] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51257] logged in with entity id 29222 at (-932.1086642081982, 197.0, 680.494228765569)
+[21:12:08] [Server thread/INFO]: MSGxHOAXEN joined the game
+[21:12:15] [Server thread/INFO]: abhifluffy lost connection: Disconnected
+[21:12:15] [Server thread/INFO]: abhifluffy left the game
+[21:12:22] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to dipu2004]
+[21:12:26] [Server thread/INFO]: abhifluffy[/127.29.219.251:51261] logged in with entity id 30283 at (268.2968346242155, 131.0, -74.64909352720821)
+[21:12:26] [Server thread/INFO]: abhifluffy joined the game
+[21:12:40] [Server thread/INFO]: abhifluffy was shot by dipu2004
+[21:12:49] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:12:59] [Server thread/INFO]: [abhifluffy: Set own game mode to Creative Mode]
+[21:13:32] [Server thread/INFO]: abhifluffy has completed the challenge [Cover Me in Debris]
+[21:13:36] [Server thread/INFO]: abhifluffy lost connection: Disconnected
+[21:13:36] [Server thread/INFO]: abhifluffy left the game
+[21:14:30] [Server thread/INFO]: daisy[/127.129.208.120:51275] logged in with entity id 30912 at (-1012.5124999880791, 219.0625, 670.3057727473059)
+[21:14:30] [Server thread/INFO]: daisy joined the game
+[21:14:36] [Server thread/INFO]: [dipu2004: Teleported daisy to dipu2004]
+[21:14:53] [Server thread/INFO]: abhifluffy[/127.29.219.251:51280] logged in with entity id 31594 at (272.1215835247586, 131.0, -53.524624598749305)
+[21:14:53] [Server thread/INFO]: abhifluffy joined the game
+[21:14:59] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:17:31] [Server thread/INFO]: abhifluffy lost connection: Disconnected
+[21:17:31] [Server thread/INFO]: abhifluffy left the game
+[21:19:08] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to daisy]
+[21:19:11] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:19:13] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:22:06] [Server thread/INFO]: abhifluffy[/127.29.219.251:51362] logged in with entity id 34913 at (269.4949672376943, 141.0, -52.33059481702427)
+[21:22:06] [Server thread/INFO]: abhifluffy joined the game
+[21:23:04] [Server thread/INFO]: MSGxHOAXEN lost connection: Disconnected
+[21:23:04] [Server thread/INFO]: MSGxHOAXEN left the game
+[21:23:11] [Server thread/INFO]: dipu2004 lost connection: Disconnected
+[21:23:11] [Server thread/INFO]: dipu2004 left the game
+[21:23:23] [Server thread/INFO]: abhifluffy lost connection: Disconnected
+[21:23:23] [Server thread/INFO]: abhifluffy left the game
+[21:23:39] [Server thread/INFO]: dipu2004[/127.0.0.1:51418] logged in with entity id 35270 at (265.74448957250775, 141.0, -64.62387826809838)
+[21:23:39] [Server thread/INFO]: dipu2004 joined the game
+[21:23:46] [Server thread/INFO]: abhifluffy[/127.29.219.251:51438] logged in with entity id 36917 at (272.1929776230056, 141.0, -73.29465579747902)
+[21:23:46] [Server thread/INFO]: abhifluffy joined the game
+[21:23:58] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51443] logged in with entity id 37947 at (265.9467411465383, 141.0, -58.30912454100894)
+[21:23:59] [Server thread/INFO]: MSGxHOAXEN joined the game
+[21:26:09] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:26:13] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:26:17] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:26:22] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:26:32] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:26:34] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:27:09] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:27:11] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:27:14] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:27:18] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:27:38] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:27:45] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:27:58] [Server thread/INFO]: [MSGxHOAXEN: Teleported abhifluffy to MSGxHOAXEN]
+[21:28:10] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:28:11] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:28:15] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:28:19] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:28:35] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:28:36] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:28:36] [Server thread/INFO]: dipu2004 has completed the challenge [Cover Me in Debris]
+[21:28:39] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:28:40] [Server thread/INFO]: abhifluffy has made the advancement [Crafting a New Look]
+[21:28:42] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:29:11] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:30:45] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:31:11] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:31:35] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:31:47] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:32:16] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:32:22] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:32:30] [Server thread/INFO]: [dipu2004: Summoned new Creeper]
+[21:32:36] [Server thread/INFO]: [dipu2004: Summoned new Creeper]
+[21:38:27] [Server thread/INFO]: [dipu2004: Summoned new Ravager]
+[21:38:33] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:38:42] [Server thread/INFO]: dipu2004 was slain by Ravager
+[21:38:49] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to abhifluffy]
+[21:39:01] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:39:23] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to daisy]
+[21:39:27] [Server thread/INFO]: [dipu2004: Set MSGxHOAXEN's game mode to Survival Mode]
+[21:39:32] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to daisy]
+[21:39:32] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to daisy]
+[21:39:33] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to daisy]
+[21:39:33] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to daisy]
+[21:39:34] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to daisy]
+[21:39:34] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to daisy]
+[21:39:38] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:39:49] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:50] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:50] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:51] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:51] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:52] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:52] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:54] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:55] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:39:56] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to abhifluffy]
+[21:40:17] [Server thread/INFO]: [Not Secure] <dipu2004> unop MSGxHOAXEN
+[21:40:21] [Server thread/INFO]: dipu2004 was killed
+[21:40:21] [Server thread/INFO]: [daisy: Killed dipu2004]
+[21:40:27] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to daisy]
+[21:40:48] [Server thread/INFO]: MSGxHOAXEN was killed
+[21:40:48] [Server thread/INFO]: [daisy: Killed MSGxHOAXEN]
+[21:41:06] [Server thread/INFO]: abhifluffy has reached the goal [Sky's the Limit]
+[21:41:51] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:41:57] [Server thread/INFO]: MSGxHOAXEN was slain by daisy
+[21:42:05] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:42:07] [Server thread/INFO]: MSGxHOAXEN was slain by daisy
+[21:42:14] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:42:15] [Server thread/INFO]: MSGxHOAXEN was slain by daisy
+[21:42:20] [Server thread/INFO]: [dipu2004: Teleported MSGxHOAXEN to dipu2004]
+[21:42:29] [Server thread/INFO]: MSGxHOAXEN was slain by daisy
+[21:42:43] [Server thread/INFO]: [MSGxHOAXEN: Removed 54 item(s) from player daisy]
+[21:42:47] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:43:08] [Server thread/INFO]: [MSGxHOAXEN: Set daisy's game mode to Survival Mode]
+[21:43:12] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[21:43:29] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:43:32] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to daisy]
+[21:43:43] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to MSGxHOAXEN]
+[21:44:03] [Server thread/INFO]: [daisy: Set the time to 13000]
+[21:44:11] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:44:11] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:44:18] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to daisy]
+[21:44:26] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:44:37] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to abhifluffy]
+[21:44:56] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:45:02] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[21:45:08] [Server thread/INFO]: MSGxHOAXEN was slain by daisy
+[21:45:13] [Server thread/INFO]: daisy was killed
+[21:45:13] [Server thread/INFO]: [MSGxHOAXEN: Killed daisy]
+[21:45:22] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:45:22] [Server thread/INFO]: daisy lost connection: Disconnected
+[21:45:22] [Server thread/INFO]: daisy left the game
+[21:45:24] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:45:28] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:45:31] [Server thread/INFO]: [abhifluffy: Gamerule keepInventory is now set to: true]
+[21:45:53] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:45:55] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:45:58] [Server thread/INFO]: dipu2004 was slain by MSGxHOAXEN
+[21:46:09] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:46:11] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to MSGxHOAXEN]
+[21:46:16] [Server thread/INFO]: [dipu2004: Removed 35 item(s) from player dipu2004]
+[21:46:25] [Server thread/INFO]: [dipu2004: Gave 1 [Netherite Axe] to dipu2004]
+[21:46:33] [Server thread/INFO]: [dipu2004: Removed 1 item(s) from player MSGxHOAXEN]
+[21:46:58] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:47:05] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:47:31] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:47:42] [Server thread/INFO]: MSGxHOAXEN was slain by dipu2004
+[21:47:58] [Server thread/INFO]: [dipu2004: Gave 1 [Cooked Porkchop] to dipu2004]
+[21:47:59] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:48:01] [Server thread/INFO]: [abhifluffy: Set own game mode to Survival Mode]
+[21:48:02] [Server thread/INFO]: [dipu2004: Gave 1 [Cooked Porkchop] to dipu2004]
+[21:48:07] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:48:11] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:48:25] [Server thread/INFO]: dipu2004 was slain by MSGxHOAXEN
+[21:48:29] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to MSGxHOAXEN]
+[21:48:47] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:48:59] [Server thread/INFO]: [dipu2004: Applied enchantment Sharpness V to abhifluffy's item]
+[21:49:08] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:49:25] [Server thread/INFO]: [dipu2004: Applied enchantment Sharpness II to MSGxHOAXEN's item]
+[21:49:39] [Server thread/INFO]: abhifluffy was slain by MSGxHOAXEN
+[21:49:49] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to MSGxHOAXEN]
+[21:49:49] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[21:49:55] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:49:57] [Server thread/INFO]: [dipu2004: Gave 1 [Cooked Porkchop] to abhifluffy]
+[21:50:28] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:50:36] [Server thread/INFO]: [dipu2004: Gave 1 [Purpur Block] to dipu2004]
+[21:50:41] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:50:49] [Server thread/INFO]: abhifluffy was slain by MSGxHOAXEN
+[21:50:54] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:50:57] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:51:04] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:51:08] [Server thread/INFO]: [dipu2004: Gave 1 [Netherite Axe] to dipu2004]
+[21:51:09] [Server thread/INFO]: [abhifluffy: Set own game mode to Creative Mode]
+[21:51:15] [Server thread/INFO]: [dipu2004: Applied enchantment Sharpness II to dipu2004's item]
+[21:51:27] [Server thread/INFO]: dipu2004 was slain by MSGxHOAXEN
+[21:51:33] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:51:36] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to MSGxHOAXEN]
+[21:51:38] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:51:48] [Server thread/INFO]: MSGxHOAXEN was slain by dipu2004
+[21:51:54] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:52:10] [Server thread/INFO]: [dipu2004: Gave 1 [Steak] to dipu2004]
+[21:52:15] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:52:18] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:52:26] [Server thread/INFO]: [abhifluffy: Set own game mode to Survival Mode]
+[21:52:31] [Server thread/INFO]: MSGxHOAXEN was slain by dipu2004
+[21:52:39] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:52:48] [Server thread/INFO]: MSGxHOAXEN was slain by dipu2004
+[21:53:01] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:53:31] [Server thread/INFO]: dipu2004 was slain by MSGxHOAXEN
+[21:53:36] [Server thread/INFO]: [dipu2004: Gave 1 [Steak] to dipu2004]
+[21:53:38] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to MSGxHOAXEN]
+[21:53:42] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:54:14] [Server thread/INFO]: abhifluffy was slain by dipu2004
+[21:54:19] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:54:21] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:54:24] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:54:36] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:54:44] [Server thread/INFO]: dipu2004 was slain by MSGxHOAXEN
+[21:54:47] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to MSGxHOAXEN]
+[21:55:04] [Server thread/INFO]: MSGxHOAXEN was slain by dipu2004
+[21:55:09] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:55:47] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51523] logged in with entity id 68608 at (-997.478053259569, 191.0, 632.2223315013815)
+[21:55:47] [Server thread/INFO]: COMMANDO11 joined the game
+[21:55:48] [Server thread/INFO]: daisy[/127.129.208.120:51525] logged in with entity id 68685 at (-1004.7063978832272, 213.0625, 672.1643996465507)
+[21:55:48] [Server thread/INFO]: daisy joined the game
+[21:55:51] [Server thread/INFO]: [dipu2004: Gave 1 [Pale Oak Planks] to dipu2004]
+[21:55:52] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:56:06] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:56:08] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:56:13] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[21:56:19] [Server thread/INFO]: abhifluffy was struck by lightning
+[21:56:20] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[21:56:27] [Server thread/INFO]: [Not Secure] <COMMANDO11> ?
+[21:56:30] [Server thread/INFO]: [dipu2004: Teleported abhifluffy to dipu2004]
+[21:56:31] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[21:56:33] [Server thread/INFO]: [Not Secure] <COMMANDO11> something just happend
+[21:56:39] [Server thread/INFO]: [dipu2004: Gave 1 [Command Block] to dipu2004]
+[21:56:44] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[21:56:59] [Server thread/INFO]: [dipu2004: Gave 1 [Lever] to dipu2004]
+[21:57:15] [Server thread/INFO]: [COMMANDO11: Set own game mode to Creative Mode]
+[21:57:24] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:57:33] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:57:36] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:57:39] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[21:57:44] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[21:57:50] [Server thread/INFO]: MSGxHOAXEN was slain by daisy
+[21:57:52] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[21:57:57] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:58:05] [Server thread/INFO]: MSGxHOAXEN was slain by daisy
+[21:58:09] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to dipu2004]
+[21:58:17] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[21:58:23] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[21:58:26] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[21:58:29] [Server thread/INFO]: abhifluffy has made the advancement [Monster Hunter]
+[21:58:31] [Server thread/INFO]: [COMMANDO11: Teleported dipu2004 to MSGxHOAXEN]
+[21:58:46] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[21:58:56] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[21:58:59] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[21:59:03] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[21:59:37] [Server thread/INFO]: [abhifluffy: Applied effect Speed to abhifluffy]
+[21:59:52] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[21:59:55] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[22:00:02] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:03] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:03] [Server thread/INFO]: [COMMANDO11: Teleported COMMANDO11 to MSGxHOAXEN]
+[22:00:03] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:03] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:04] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:04] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:04] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:05] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:05] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:05] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:05] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:06] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:06] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:07] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:07] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:07] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:08] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:00:08] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:08] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:08] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:09] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:09] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:10] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:10] [Server thread/INFO]: [dipu2004: Summoned new Lightning Bolt]
+[22:00:14] [Server thread/INFO]: [COMMANDO11: Teleported COMMANDO11 to daisy]
+[22:00:18] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:00:24] [Server thread/INFO]: [COMMANDO11: Teleported COMMANDO11 to MSGxHOAXEN]
+[22:00:31] [Server thread/INFO]: dipu2004 was killed
+[22:00:31] [Server thread/INFO]: [COMMANDO11: Killed dipu2004]
+[22:00:34] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:00:38] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[22:00:53] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:01:02] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to daisy]
+[22:01:02] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:01:19] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:01:21] [Server thread/INFO]: [COMMANDO11: Set own game mode to Creative Mode]
+[22:01:22] [Server thread/INFO]: daisy fell from a high place
+[22:01:29] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[22:01:49] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[22:01:50] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[22:01:50] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:01:52] [Server thread/INFO]: [COMMANDO11: Teleported COMMANDO11 to daisy]
+[22:01:54] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[22:02:03] [Server thread/INFO]: COMMANDO11 was slain by dipu2004
+[22:02:08] [Server thread/INFO]: [dipu2004: Teleported COMMANDO11 to dipu2004]
+[22:02:18] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:02:18] [Server thread/INFO]: [abhifluffy: Applied effect Speed to abhifluffy]
+[22:02:23] [Server thread/INFO]: [dipu2004: Teleported COMMANDO11 to dipu2004]
+[22:02:23] [Server thread/INFO]: daisy fell from a high place
+[22:02:28] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[22:02:28] [Server thread/INFO]: COMMANDO11 left the game
+[22:02:29] [Server thread/INFO]: [abhifluffy: Removed every effect from abhifluffy]
+[22:02:31] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:02:38] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51543] logged in with entity id 79562 at (-941.0390874354847, 197.0, 658.0234557375336)
+[22:02:38] [Server thread/INFO]: COMMANDO11 joined the game
+[22:02:41] [Server thread/INFO]: [dipu2004: Teleported COMMANDO11 to dipu2004]
+[22:02:45] [Server thread/INFO]: [abhifluffy: Set own game mode to Creative Mode]
+[22:02:47] [Server thread/INFO]: [Not Secure] <COMMANDO11> command ke bina nhk
+[22:02:50] [Server thread/INFO]: [COMMANDO11: Set own game mode to Creative Mode]
+[22:02:54] [Server thread/INFO]: [COMMANDO11: Set own game mode to Survival Mode]
+[22:03:00] [Server thread/INFO]: [COMMANDO11: Set own game mode to Creative Mode]
+[22:03:15] [Server thread/INFO]: [Not Secure] <COMMANDO11> ?
+[22:03:19] [Server thread/INFO]: [Not Secure] <COMMANDO11> me?
+[22:03:42] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:03:46] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[22:03:47] [Server thread/INFO]: daisy fell from a high place
+[22:03:52] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:03:55] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[22:04:06] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to daisy]
+[22:04:14] [Server thread/INFO]: [dipu2004: Set own game mode to Spectator Mode]
+[22:04:15] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[22:04:23] [Server thread/INFO]: MSGxHOAXEN was killed
+[22:04:23] [Server thread/INFO]: [daisy: Killed MSGxHOAXEN]
+[22:04:28] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[22:04:29] [Server thread/INFO]: [COMMANDO11: Set own game mode to Survival Mode]
+[22:04:32] [Server thread/INFO]: [dipu2004: Teleported daisy to dipu2004]
+[22:04:41] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[22:04:42] [Server thread/INFO]: [COMMANDO11: Set own game mode to Creative Mode]
+[22:04:46] [Server thread/INFO]: [dipu2004: Set own game mode to Spectator Mode]
+[22:04:47] [Server thread/INFO]: [COMMANDO11: Set own game mode to Survival Mode]
+[22:04:48] [Server thread/INFO]: [dipu2004: Set own game mode to Survival Mode]
+[22:04:50] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[22:04:52] [Server thread/INFO]: [COMMANDO11: Set own game mode to Creative Mode]
+[22:04:59] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[22:05:04] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[22:05:09] [Server thread/INFO]: [COMMANDO11: Set dipu2004's game mode to Survival Mode]
+[22:05:16] [Server thread/INFO]: dipu2004 was struck by lightning
+[22:05:23] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to COMMANDO11]
+[22:05:25] [Server thread/INFO]: [Not Secure] <COMMANDO11> lol
+[22:05:26] [Server thread/INFO]: [MSGxHOAXEN: Teleported MSGxHOAXEN to daisy]
+[22:05:31] [Server thread/INFO]: [COMMANDO11: Set the time to 1000]
+[22:05:55] [Server thread/INFO]: [dipu2004: Set own game mode to Creative Mode]
+[22:06:05] [Server thread/INFO]: [MSGxHOAXEN: Removed 6 item(s) from player MSGxHOAXEN]
+[22:06:19] [Server thread/INFO]: [dipu2004: Summoned new Iron Golem]
+[22:06:48] [Server thread/INFO]: [dipu2004: Summoned new Zombie]
+[22:06:50] [Server thread/INFO]: [abhifluffy: Set own game mode to Spectator Mode]
+[22:07:43] [Server thread/INFO]: [dipu2004: Teleported daisy to 293.500000, 23.000000, 23.500000]
+[22:08:06] [Server thread/INFO]: [abhifluffy: Set own game mode to Creative Mode]
+[22:08:12] [Server thread/INFO]: [dipu2004: Gave 1 [Oak Wood] to dipu2004]
+[22:08:37] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[22:09:28] [Server thread/INFO]: [dipu2004: Teleported daisy to dipu2004]
+[22:09:41] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[22:09:42] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:09:51] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Creative Mode]
+[22:10:01] [Server thread/INFO]: [COMMANDO11: Killed Iron Golem]
+[22:10:09] [Server thread/INFO]: [abhifluffy: Teleported abhifluffy to dipu2004]
+[22:10:27] [Server thread/INFO]: MSGxHOAXEN lost connection: Disconnected
+[22:10:27] [Server thread/INFO]: MSGxHOAXEN left the game
+[22:10:54] [Server thread/INFO]: daisy drowned
+[22:11:32] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:11:49] [Server thread/INFO]: MSGxHOAXEN[/127.26.245.251:51585] logged in with entity id 90572 at (-954.135233936441, 198.0, 638.4336290787736)
+[22:11:49] [Server thread/INFO]: MSGxHOAXEN joined the game
+[22:11:54] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:11:58] [Server thread/INFO]: daisy fell from a high place
+[22:12:34] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:12:37] [Server thread/INFO]: COMMANDO11 lost connection: Disconnected
+[22:12:37] [Server thread/INFO]: COMMANDO11 left the game
+[22:12:42] [Server thread/INFO]: COMMANDO11[/127.235.186.174:51592] logged in with entity id 91428 at (-998.1639233742549, 291.82146663868895, 616.8018423871196)
+[22:12:42] [Server thread/INFO]: COMMANDO11 joined the game
+[22:12:57] [Server thread/INFO]: [daisy: Set own game mode to Survival Mode]
+[22:13:18] [Server thread/INFO]: [MSGxHOAXEN: Set own game mode to Survival Mode]
+[22:13:24] [Server thread/INFO]: daisy tried to swim in lava
+[22:13:44] [Server thread/INFO]: [dipu2004: Teleported dipu2004 to daisy]
+[22:13:45] [Server thread/INFO]: [daisy: Set own game mode to Creative Mode]
+[22:14:13] [Server thread/INFO]: daisy lost connection: Disconnected
+[22:14:13] [Server thread/INFO]: daisy left the game
+[22:14:51] [Server thread/INFO]: abhifluffy lost connection: Disconnected
+[22:14:51] [Server thread/INFO]: abhifluffy left the game

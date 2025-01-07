@@ -34,5 +34,11 @@
     "name": "daisy",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "03ea9ad4-9f20-3150-b256-51e716bb9c06",
+    "name": "abhifluffy",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

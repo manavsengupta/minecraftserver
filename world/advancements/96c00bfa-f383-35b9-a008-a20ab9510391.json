@@ -16,6 +16,7 @@
       "minecraft:taiga": "2025-01-03 17:49:18 +0530",
       "minecraft:river": "2024-10-18 20:00:06 +0530",
       "minecraft:stony_shore": "2025-01-03 17:46:30 +0530",
+      "minecraft:lush_caves": "2025-01-07 21:58:38 +0530",
       "minecraft:frozen_peaks": "2024-10-22 18:53:13 +0530",
       "minecraft:old_growth_birch_forest": "2024-10-22 18:33:28 +0530",
       "minecraft:windswept_forest": "2024-10-22 14:23:25 +0530",
@@ -415,6 +416,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-07 21:46:50 +0530",
       "suspicious_stew": "2024-10-18 23:14:18 +0530",
       "enchanted_golden_apple": "2024-10-20 00:31:05 +0530",
       "glow_berries": "2024-10-19 02:49:58 +0530",
@@ -448,6 +450,7 @@
       "minecraft:vindicator": "2025-01-05 23:48:32 +0530",
       "minecraft:enderman": "2024-10-21 19:12:46 +0530",
       "minecraft:silverfish": "2024-12-29 01:50:27 +0530",
+      "minecraft:endermite": "2025-01-07 22:03:51 +0530",
       "minecraft:spider": "2024-10-19 21:05:13 +0530",
       "minecraft:zombie": "2024-10-20 01:39:43 +0530",
       "minecraft:creeper": "2024-10-19 00:08:18 +0530",
@@ -4178,6 +4181,18 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-01-05 23:55:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-07 21:47:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-07 21:47:10 +0530"
     },
     "done": true
   },

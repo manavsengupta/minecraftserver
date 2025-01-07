@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2025-01-05 22:39:06 +0530",
       "minecraft:beach": "2025-01-05 15:50:08 +0530",
       "minecraft:old_growth_pine_taiga": "2025-01-05 15:31:25 +0530",
+      "minecraft:taiga": "2025-01-07 20:15:20 +0530",
       "minecraft:ocean": "2025-01-05 15:42:52 +0530",
       "minecraft:river": "2025-01-05 15:30:55 +0530",
       "minecraft:plains": "2025-01-05 22:38:50 +0530"
@@ -847,6 +848,19 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-05 22:41:44 +0530",
+      "enchanted_golden_apple": "2025-01-07 20:06:53 +0530"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-05 22:41:44 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 22:45:02 +0530"
@@ -922,18 +936,6 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-05 22:45:02 +0530"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_porkchop": "2025-01-05 22:41:44 +0530"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-05 22:41:44 +0530"
     },
     "done": true
   },
