@@ -1804,15 +1804,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-01-06 00:03:10 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/mace": {
     "criteria": {
       "has_breeze_rod": "2025-01-05 23:19:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-01-06 00:03:10 +0530"
     },
     "done": true
   },
